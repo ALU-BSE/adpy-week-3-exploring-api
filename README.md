@@ -92,7 +92,7 @@ GET https://api.github.com/users/octocat
             ###
 ```
 
-        *   **VS Code:**
+   * **VS Code:**
 
 ```http
             GET https://api.github.com/repos/octocat/Hello-World
