@@ -106,7 +106,7 @@ GET https://api.github.com/users/octocat
 1.  **Public vs. Private Data:** Explain that some endpoints require authentication.
 2.  **GitHub Personal Access Tokens:** If you want to demonstrate authenticated requests, show students how to create a Personal Access Token on GitHub.
 3.  **Using the Token:**
-      * **JetBrains:**
+      *A.  **JetBrains:**
 
 <!-- end list -->
 
@@ -116,9 +116,7 @@ GET https://api.github.com/users/octocat
 
     ###
 ```
-
-```
-*   **VS Code:**
+   *B.  **VS Code:**
 ```
 
 ```http
